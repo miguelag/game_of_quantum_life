@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/game_of_quantum_life/static/js/main.cc2de7a0.js",
+    "index.html": "/game_of_quantum_life/index.html",
+    "main.cc2de7a0.js.map": "/game_of_quantum_life/static/js/main.cc2de7a0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cc2de7a0.js"
+  ]
+}
